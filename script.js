@@ -49,5 +49,3 @@ if (navigator.geolocation) {
     );
 
 }
-
-// https://www.google.com/maps/place/New+Delhi,+Delhi/@28.527582,77.0688992,11z
